@@ -31,28 +31,6 @@ I have developed various projects using **Unity, Spring Boot, and Flutter**, and
 
 Additionally, I have delivered **Unity 101 training** as part of **AYBU GDSC**, sharing my knowledge with fellow developers.  
 
----
-
-### 🔥 **Key Projects & Skills**  
-💡 **Algorithms & Data Structures**  
-💻 **Object-Oriented Programming & Design Patterns**  
-📌 **Project Management & Agile Development**  
-
-🚀 **Backend Development:**  
-- Developed **Spring Boot** applications, integrating RESTful APIs and databases.  
-- Built scalable backend solutions with **Java & PostgreSQL**.  
-
-📊 **Data Science & AI:**  
-- Conducted **heart attack risk analysis** using large datasets.  
-- Applied **machine learning techniques** for predictive analysis.  
-
-📱 **Mobile Development:**  
-- Developed a **cross-platform mobile app using Flutter & Dart**.  
-- Integrated APIs and responsive UI for a seamless user experience.  
-
-🛠️ **I love exploring new technologies and solving complex problems!**  
-
-
 ## 🚀 **Tech Stack**
 ### 🖥️ **Languages & Game Development Frameworks**
 <p align="center">
